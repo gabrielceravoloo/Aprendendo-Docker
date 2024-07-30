@@ -1,0 +1,34 @@
+# ==========================================================================
+# Configurações Personalizadas para o WSL 2
+# ==========================================================================
+
+[wsl2]
+
+# Define a quantidade máxima de memória RAM disponível para o WSL 2
+memory=8GB
+
+# Define o número máximo de processadores que o WSL 2 pode usar
+processors=6
+
+# Define o tamanho do arquivo de swap
+swap=2GB
+
+# Habilita a liberação automática de memória não utilizada de forma gradual
+autoMemoryReclaim=gradual
+
+
+
+
+# ==========================================================================
+# Configurações Situcionais (NÃO CONFIGURADAS)
+# ==========================================================================
+
+# Habilita o uso de um proxy para o WSL 2
+# proxy=http://proxy.example.com:3128
+
+# Configura o WSL 2 para usar um endereço IP dinâmico ou estático
+# networking=true
+# generateResolvConf=true
+
+# Define o tempo máximo que o WSL 2 pode ficar ocioso antes de ser pausado (Hibernar o WSL 2)
+idleTimeout=900
