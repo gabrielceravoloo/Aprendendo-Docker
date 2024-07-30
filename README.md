@@ -4,7 +4,7 @@
 
 <hr>
 
-<h1 align="center"> Instalação e Configuração do Docker no Windows e WSL 2 </h1>
+<h1 align="center"> Instalando e Configurando do Docker no Windows e WSL2 </h1>
 
 ### 1. Baixar e Instalar o Docker Desktop
 
