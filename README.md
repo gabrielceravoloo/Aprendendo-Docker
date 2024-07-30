@@ -1,6 +1,10 @@
-# Instalação e Configuração do Docker no Windows e WSL 2
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/17d5f693-cbef-441f-b12b-1d0c4b839f79" alt="Repository Cover">
+</p>
 
-## Instalação do Docker com Docker Desktop
+<hr>
+
+<h1 align="center"> Instalação e Configuração do Docker no Windows e WSL 2 </h1>
 
 ### 1. Baixar e Instalar o Docker Desktop
 
