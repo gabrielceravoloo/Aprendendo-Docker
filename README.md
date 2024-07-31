@@ -2,9 +2,8 @@
   <img src="https://github.com/user-attachments/assets/03b12ee9-1f97-4e66-97da-492c04785c3b" alt="Repository Cover">
 </p>
 
-<hr>
-
 <h1 align="center"> Intalação Docker no Windows e WSL 2 </h1>
+
 
 ### 1. Baixar e Instalar o Docker Desktop
 
