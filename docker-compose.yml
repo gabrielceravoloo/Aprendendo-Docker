@@ -1,0 +1,19 @@
+# Este arquivo docker-compose.yml é um exemplo de configuração que um programador ira usar no dia a dia
+# Neste caso o exemplo foi defini um serviço de contêiner para executar um banco de dados PostgreSQL
+
+# O contêiner do PostgreSQL é configurado para mapear a porta 5432 para a porta 8080 do host, no qual
+# monta um arquivo SQL para inicialização e define as credenciais do banco de dados através das variáveis
+
+version: '3'
+
+services:
+  db:
+    image: postgres:latest
+    ports:
+      - 8080:5432
+    volumes:
+      - ./db.sql:/docker-entrypoint-initdb.d/init.sql
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: teste
+      POSTGRES_DB: db_teste
