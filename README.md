@@ -152,7 +152,7 @@ docker-compose --version
 
 <h1 align="center">Dicas e Outros </h1>
 
-### <img src="https://github.com/user-attachments/assets/86bed6de-67f3-4c78-a025-185f9a2a56ef" alt="Beekeeper Studio icon" width="15" height="15"> Docker Hub:
+### <img src="https://github.com/user-attachments/assets/86bed6de-67f3-4c78-a025-185f9a2a56ef" alt="Beekeeper Studio icon" width="17" height="17"> Docker Hub:
 
 O **Docker Hub** é um serviço de registro de imagens de contêineres Docker, fornecido pela Docker Inc. Ele serve como uma plataforma para encontrar, compartilhar e gerenciar imagens de contêineres. É uma ferramenta essencial para desenvolvedores que usam o Docker para criar e distribuir aplicativos. 
 
@@ -161,3 +161,11 @@ Link para o site do Docker Hub: [hub.docker](https://hub.docker.com)
 ### <img src="https://github.com/user-attachments/assets/df28deb3-f22e-4795-8854-449314ca5713" alt="Beekeeper Studio icon" width="15" height="17"> Beekeeper Studio:
 
 O **Beekeeper Studio** é uma ferramenta de administração de bancos de dados que suporta vários sistemas de banco de dados como MySQL, PostgreSQL, SQLite, e outros. É uma ótima opção para quem precisa de uma **interface gráfica** para gerenciar os bancos de dados
+
+Link para o site do Beekeeper Studio: [beekeeperstudio.io](https://www.beekeeperstudio.io/)
+
+### <img src="https://github.com/user-attachments/assets/2f04c1c9-490a-4f9c-b811-8556454d8403" alt="Beekeeper Studio icon" width="17" height="17"> Play with Docker:
+
+O **Play with Docker** é uma plataforma online que permite aos desenvolvedores experimentar e testar o Docker sem precisar instalar nada localmente. É uma ferramenta útil para aprender sobre contêineres, testar comandos e configurações do Docker, e fazer demonstrações
+
+Link para o site do Play with Docker: [labs.play-with-docker](https://labs.play-with-docker.com)
